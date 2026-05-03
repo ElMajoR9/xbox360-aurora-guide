@@ -46,20 +46,23 @@ nav:
     - Aurora Dashboard: installation/aurora.md
     - DashLaunch: installation/dashlaunch.md
     - Réseau & FTP: installation/reseau.md
-  - Contenu: contenu.md
+  - Utilisation:
+    - Gestion du contenu: contenu.md
+    - Sauvegardes & Profils: saves.md
+    - Multijoueur: multijoueur.md
   - Plugins:
     - Installer un plugin: plugins/installation.md
     - Compatibilité: plugins/compatibilite.md
-  - Émulation: emulation.md
-  - Homebrew: homebrew.md
-  - Multijoueur: multijoueur.md
+  - Émulation & Homebrew:
+    - Émulation: emulation.md
+    - Homebrew: homebrew.md
   - Personnalisation:
     - Thèmes Aurora: personnalisation/themes.md
   - Outils PC: outils-pc/index.md
-  - Sauvegardes & Profils: saves.md
-  - Diagnostic: diagnostic.md
-  - FAQ: faq.md
-  - Glossaire: glossaire.md
+  - Aide:
+    - Diagnostic: diagnostic.md
+    - FAQ: faq.md
+    - Glossaire: glossaire.md
   - Contribuer: contribuer.md
 
 plugins:
