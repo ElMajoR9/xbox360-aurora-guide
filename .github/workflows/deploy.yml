@@ -34,7 +34,7 @@ jobs:
         run: |
           mkdir -p docs
           cp -r installation plugins personnalisation outils-pc docs/
-          cp index.md faq.md glossaire.md contribuer.md contenu.md docs/
+          cp index.md faq.md glossaire.md contribuer.md contenu.md emulation.md homebrew.md saves.md diagnostic.md multijoueur.md docs/
 
       - name: Build du site
         run: mkdocs build
