@@ -46,6 +46,7 @@ nav:
     - Aurora Dashboard: installation/aurora.md
     - DashLaunch: installation/dashlaunch.md
     - Réseau & FTP: installation/reseau.md
+  - Contenu: contenu.md
   - Plugins:
     - Installer un plugin: plugins/installation.md
     - Compatibilité: plugins/compatibilite.md
