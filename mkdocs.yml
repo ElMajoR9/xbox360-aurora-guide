@@ -5,7 +5,7 @@ site_url: "https://ElMajoR9.github.io/xbox360-aurora-guide/"
 repo_url: "https://github.com/ElMajoR9/xbox360-aurora-guide"
 repo_name: "xbox360-aurora-guide"
 
-docs_dir: docs
+docs_dir: .
 site_dir: site
 
 theme:
